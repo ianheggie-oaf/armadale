@@ -112,7 +112,7 @@ class Scraper
 
       # Fetch detail page
       detail_page = throttle_block do
-        puts "  Fetching: #{info_url}"
+        puts "Fetching: #{info_url}"
         agent.get(info_url)
       end
 
@@ -156,7 +156,7 @@ class Scraper
       record["on_notice_to"] = notice_date if notice_date
 
       added += 1
-      puts "Saving record #{council_reference}"
+      puts "  Saving record #{council_reference}"
       ScraperWiki.save_sqlite(["council_reference"], record)
     end
 

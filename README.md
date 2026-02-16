@@ -19,17 +19,15 @@ Add any issues to https://github.com/planningalerts-scrapers/issues/issues
 
 ```
 Getting planning page
-  Fetching: https://engage.armadale.wa.gov.au/lot-43-no-3153-albany-highway-armadale
-Saving record lot-43-no-3153-albany-highway-armadale
-  Fetching: https://engage.armadale.wa.gov.au/lot-18-d-p-6238-no-51-wungong-road-armadale
-Saving record lot-18-d-p-6238-no-51-wungong-road-armadale
+Fetching: https://engage.armadale.wa.gov.au/lot-43-no-3153-albany-highway-armadale
+  Saving record lot-43-no-3153-albany-highway-armadale
+Fetching: https://engage.armadale.wa.gov.au/lot-18-d-p-6238-no-51-wungong-road-armadale
+  Saving record lot-18-d-p-6238-no-51-wungong-road-armadale
 ...
-  Fetching: https://engage.armadale.wa.gov.au/lot-104-no-171-canns-road-bedfordale
-Saving record lot-104-no-171-canns-road-bedfordale
-  Fetching: https://engage.armadale.wa.gov.au/lot-200-edison-circuit-forrestdale
-Saving record lot-200-edison-circuit-forrestdale
-  Fetching: https://engage.armadale.wa.gov.au/2-hensbrook-loop-forrestdale
-Saving record 2-hensbrook-loop-forrestdale
+Fetching: https://engage.armadale.wa.gov.au/lot-200-edison-circuit-forrestdale
+  Saving record lot-200-edison-circuit-forrestdale
+Fetching: https://engage.armadale.wa.gov.au/2-hensbrook-loop-forrestdale
+  Saving record 2-hensbrook-loop-forrestdale
 Finished! Added 33 records, skipped 1 from 34 rows found with links.
 ```
 
